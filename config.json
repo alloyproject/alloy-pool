@@ -26,7 +26,7 @@
       "ports": [
             {
                 "port": 3333,
-                "difficulty": 5000,
+                "difficulty": 50,
                 "desc": "CPU Rigs" 
             },
          {
@@ -46,7 +46,7 @@
 
 
 "varDiff": {
-            "minDiff": 5000,
+            "minDiff": 50,
             "maxDiff": 150000,
             "targetTime": 100,
             "retargetTime": 30,
